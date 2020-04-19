@@ -1,0 +1,17 @@
+astroid==2.3.3
+autopep8==1.5.1
+click==7.1.1
+colorama==0.4.3
+fastapi==0.54.1
+h11==0.9.0
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+pycodestyle==2.5.0
+pydantic==1.5
+pylint==2.4.4
+six==1.14.0
+starlette==0.13.2
+uvicorn==0.11.3
+websockets==8.1
+wrapt==1.11.2
